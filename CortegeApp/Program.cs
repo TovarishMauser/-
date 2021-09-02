@@ -47,7 +47,7 @@ namespace CortegeApp
 		{
 			for (int i = 0; i < array.Length; i++)
 			{
-				Console.Write("Любимый цвет {0}", i);
+				Console.Write("Любимый цвет {0} ", i);
 				Console.WriteLine(array[i]);
 			}
 		}
